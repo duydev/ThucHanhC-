@@ -1,0 +1,13 @@
+E:\TH C#\Lab03\Lab03\bin\Debug\Lab03.exe.config
+E:\TH C#\Lab03\Lab03\bin\Debug\Lab03.exe
+E:\TH C#\Lab03\Lab03\bin\Debug\Lab03.pdb
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.csprojResolveAssemblyReference.cache
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.Cache
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.exe
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.pdb
+E:\TH C#\Lab03\Lab03\obj\Debug\Lab03.frmUocboi.resources
+E:\Thuc Hanh C#\Lab03\Lab03\bin\Debug\Lab03.exe.config
+E:\Thuc Hanh C#\Lab03\Lab03\obj\Debug\Lab03.exe
+E:\Thuc Hanh C#\Lab03\Lab03\obj\Debug\Lab03.pdb
